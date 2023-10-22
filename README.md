@@ -1,5 +1,6 @@
 # SVMs
 
+Basic implementation of SVMs for classification.
 
 ## Execution
 
